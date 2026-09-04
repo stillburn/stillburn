@@ -1,16 +1,10 @@
-## Hi there 👋
-
-<!--
-**stillburn/stillburn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">stillbørn</h1>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+  <img align="center" src="https://streak-stats.demolab.com?user=stillburn&theme=shadow-red&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&fire=EBEBEB&background=000000&stroke=858585&dates=EBEBEB&sideLabels=AB0000&ring=800000&currStreakNum=EBEBEB&sideNums=D2D2D2" alt="GitHub Streak" /></a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,nuxtjs,angular,react,vue,js,ts,html,css,materialui,aws,docker,graphql,go,cs,cpp,blender,godot,unity,unreal&perline=10" />
+  </a>
+</p>
